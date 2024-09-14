@@ -316,10 +316,9 @@ body {
     box-sizing: border-box; 
     padding: 20px;
     margin-bottom: 20px;
-    height: 165px;
+    height: 168px;
     border:1px solid black;
     position: relative;
-
 }
 .offers-icon {
     position: absolute; 
@@ -330,17 +329,14 @@ body {
     font-size: 30px;
     color: #f54f91;
 }
-
 .offers-text {
     margin-left: 50px; 
 }
-
 .offers-text h3 {
     font-size: 22px;
     margin: 0;
     color: #333;
 }
-
 .offers-text p {
     color: #8d8d8d;
     font-size: 14px;
@@ -358,11 +354,9 @@ body {
     padding: 120px 0;
     background-color: #f7f7f7;
 }
-
 .us-content {
     overflow: hidden; 
 }
-
 .us-text {
     float: left;
     width: 55%;
@@ -385,19 +379,16 @@ body {
     float: left;
     width: 40%;
 }
-
 .us-img {
     text-align: center; 
     width: 100%; 
     height: 400px; 
 }
-
 .us-img img {
     width: 100%; 
     height: 100%; 
     background-size: cover;
 }
-
 .us-circle {
     text-align: center; 
     margin-top: 20px; 
@@ -411,22 +402,19 @@ body {
     border-radius: 50%;
     margin: 0 5px;
 }
-
 .us-circle li.active {
     background-color: #000; 
 }
 .us-circle li:hover{
     background-color: #000;
 }
-
 .service-list {
     list-style: none; 
     padding: 0;
 }
-
 .service-list li {
     margin-bottom: 30px; 
-    font-size: 18px;
+    font-size: 16.5px;
 }
 .service-list i{
     color: #f54f91;
