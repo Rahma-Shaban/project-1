@@ -113,7 +113,6 @@ body {
     display: block;
 }
     /* ////////////////////home section/////////////////////////// */
- 
 .Home-section {
      width: 100%;
      height: 100vh;
@@ -190,6 +189,7 @@ body {
 }
 .about-item {
     width: 30%;
+    height: 300px;
     float: left; 
     text-align: center;
     border: 1px solid #888;
@@ -316,7 +316,7 @@ body {
     box-sizing: border-box; 
     padding: 20px;
     margin-bottom: 20px;
-    height: 160px;
+    height: 165px;
     border:1px solid black;
     position: relative;
 
