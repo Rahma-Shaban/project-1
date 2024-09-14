@@ -316,7 +316,7 @@ body {
     box-sizing: border-box; 
     padding: 20px;
     margin-bottom: 20px;
-    height: 168px;
+    height: 170px;
     border:1px solid black;
     position: relative;
 }
@@ -326,7 +326,7 @@ body {
     top: 20px; 
     width: 60px; 
     height: 60px; 
-    font-size: 30px;
+    font-size: 28px;
     color: #f54f91;
 }
 .offers-text {
@@ -581,14 +581,12 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
-
 .image-section-content {
     overflow: hidden;
     width: 95%;
     margin: auto;
     position: relative;
 }
-
 .image-section-item {
     color: #fff;
     padding: 20px;
@@ -597,57 +595,43 @@ body {
     margin-left: 3%; 
     margin-top: 80px;
 }
-
 .imgItem-content {
     overflow: hidden;
     margin-bottom: 20px;
 }
-
 .image-img {
     float: left;
     margin-right: 15px;
     width: 65px; 
     height: 65px; 
 }
-
 .image-img img {
     width: 100%;
     height: 100%;
     border-radius: 50%;
 }
-
 .image-desc {
     float: left;
     margin-top: 10px;
 }
-
-
 .image-desc span {
     display: block;
     margin-top: 5px;
     color: #e03c6c;
 }
-
 .image-section-item p {
     font-size: 14px;
     line-height: 1.6;
     color: #f7f7f7;
 }
-
 /* ///////////////////////////////////////////////////////////////////////// */
-
-
 .team-section{
     padding:120px 0;
-
 }
-
 .team-content{
     margin-top: 70px;
     overflow: hidden; 
-
 }
-
 .team-item{
     float: left;
     width: 30%;
@@ -657,29 +641,24 @@ body {
     background-color: #dedcdc;
     position: relative; 
 }
-
 .img-container{
     position: relative;
 }
-
 .team-img {
     width: 100%; 
     height: 300px; 
     position: relative; 
 }
-
 .team-img img {
     width: 100%;
     height: 100%;
 }
-
 .team-icon{
     position: absolute;
     top: 0px;
     right: 0px;
     display: none; 
 }
-
 .team-icon i{
     display: block;
     width: 40px;
@@ -688,11 +667,9 @@ body {
     text-align: center;
     line-height: 40px; 
     font-size: 30px;
- 
 }
 .team-icon i:hover{
     color: #fe7ffad9;
-
 }
 .team-text{
     text-align: center;
@@ -714,7 +691,6 @@ body {
     transition: .5s;
     opacity: 0;
 }
-
 .team-item:hover:after {
     width: 100%;
     height: 100%;
@@ -729,7 +705,6 @@ body {
     background-color: rgba(0, 0, 0, 0.7);
     opacity: 0; 
 }
-
 .team-item:hover .img-overlay {
     opacity: 0.5; 
 }
@@ -737,14 +712,12 @@ body {
     display: block; 
     z-index: 1;
 }
-
 .team-item:hover .team-text h3 ,
 .team-item:hover .team-text p {
     color: #ffffff;
     transition: 1s;
     z-index: 1;
     position: relative;
-
 }
 .team-item:hover .team-text p{
     color: #e3e3e3;
@@ -753,7 +726,6 @@ body {
 .new-content {
     overflow: hidden; 
     margin-top: 70px;
-
 }
 .new-item {
     float: left;
