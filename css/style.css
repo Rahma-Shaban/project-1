@@ -41,7 +41,7 @@ body {
         background-color: rgba(255, 255, 255, 0.9);
     }
     .header .logo {
-        width:40%;
+        width:35%;
         float: left;
     }
     .list1{
@@ -92,7 +92,7 @@ body {
     position: absolute;
     background-color: rgba(255, 255, 255, 0.9);
     top: 100%;
-    right: 22%;
+    right: 28%;
     list-style: none;
 }
 .list1 .submenu li a::after {
@@ -157,14 +157,11 @@ body {
     cursor: pointer;
     font-size: 17px;
     margin-left: 10px;
-
 }
 .home-btn1{
     color: white;
     background-color: rgb(243, 97, 155);
 }
-
-
 .Home-section-content .home-btn1:hover{
     background-color: #f35795a3;
 
@@ -197,17 +194,15 @@ body {
     text-align: center;
     border: 1px solid #888;
     padding: 30px 15px;
-    margin: 0 20px; 
+    margin: 0 1.66%; 
 }
 .about-item i{
     font-size: 40px;
     color: #F3619B;
-    
 }
 .about-item h3{
     margin-top: 10px;
     font-size: 24px;
-
 }
 .about-item p{
     margin-top: 20px;
@@ -218,7 +213,6 @@ body {
     margin-top: 80px;
     color: #F3619B;
 }
-
 .about-item a:hover{
     color: #fdb6fa;
 }
@@ -227,7 +221,6 @@ body {
     color: white;
 }
 /* //////////////////////////////////////////////////////////////// */
-
 .best-sellers-section{
     padding-bottom: 120px;
     background-color: #f7f7f7;
@@ -309,7 +302,6 @@ body {
     background-color: #f3619bb3;
 }
 /* ////////////////////////////////////////////////////////////////////////////////// */
-
 .offers-section{
     padding:120px 0;
 }
@@ -317,7 +309,6 @@ body {
     overflow: hidden; 
     margin-top: 70px;
 }
-
 .offers-item{
     float: left;
     width: 30%;
@@ -325,7 +316,7 @@ body {
     box-sizing: border-box; 
     padding: 20px;
     margin-bottom: 20px;
-    /* height: 150px; */
+    height: 160px;
     border:1px solid black;
     position: relative;
 
